@@ -1,4 +1,4 @@
-# h_ttp
+# h_ttp(http time test plus)
 More convenient HTTP time measurement plugin for Munin
 
 ## Download
